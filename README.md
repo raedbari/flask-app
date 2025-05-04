@@ -89,7 +89,7 @@ vim deployment.yaml
 vim service.yaml
 ```
 
-- [svc.yaml](./k8s/service.yaml)
+- [svc.yaml](./k8s/services.yaml)
 
 ---
 
